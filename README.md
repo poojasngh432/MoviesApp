@@ -41,12 +41,23 @@ The development workflow for the Movies App follows the standard MVVM pattern an
 
 ## Preview
 #### Recording
+
+https://github.com/user-attachments/assets/eff49fc8-4d1b-4d61-9aba-848ae5354c57
+
 #### Screenshots
-| Feature | Screenshot |
-| --- | --- |
-| List | list img |
-| Search | img |
-| Detail | img |
+
+<table>
+  <tr style="text-align: center;">
+    <td><b>List</b></td>
+     <td><b>Search</b></td>
+     <td><b>Detail</b></td>
+  </tr>
+  <tr style="text-align: center;">
+    <td><<img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_020350.png" width=270 height=580 style="display: block; margin: auto;">> </td>
+    <td> <img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_024454.png" width=270 height=580 style="display: block; margin: auto;">> </td>
+    <td><img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_020444.png" width=270 height=580 style="display: block; margin: auto;">></td>
+  </tr>
+ </table>
 
 
 
