@@ -53,8 +53,8 @@ https://github.com/user-attachments/assets/eff49fc8-4d1b-4d61-9aba-848ae5354c57
      <td><b>Detail</b></td>
   </tr>
   <tr style="text-align: center;">
-    <td><<img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_020350.png" width=270 height=580 style="display: block; margin: auto;"> </td>
-    <td> <img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_024454.png" width=270 height=580 style="display: block; margin: auto;"> </td>
+    <td><img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_020350.png" width=270 height=580 style="display: block; margin: auto;"> </td>
+    <td><img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_024454.png" width=270 height=580 style="display: block; margin: auto;"> </td>
     <td><img src="https://github.com/poojasngh432/MoviesApp/blob/main/Screenshots/Screenshot_20240826_020444.png" width=270 height=580 style="display: block; margin: auto;"></td>
   </tr>
  </table>
