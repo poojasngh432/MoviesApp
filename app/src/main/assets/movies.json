@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "movieName": "Inception",
+    "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction: stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in industrial espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now, Cobb is being offered a chance at redemption. One last job could give him his life back, but only if he can accomplish the impossible—inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime.",
+    "imageUrl": "https://m.media-amazon.com/images/I/71DwIcSgFcS.jpg"
+  },
+  {
+    "id": 2,
+    "movieName": "The Dark Knight",
+    "description": "With the help of allies Lt. Jim Gordon and DA Harvey Dent, Batman has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism. The Joker's chaotic and brutal actions force Batman to confront the fine line between justice and revenge, challenging his resolve as he faces off against his greatest nemesis in a battle that will determine Gotham's fate and Batman's legacy.",
+    "imageUrl": "https://image.tmdb.org/t/p/original/xQPgyZOBhaz1GdCQIPf5A5VeFzO.jpg"
+  },
+  {
+    "id": 3,
+    "movieName": "Interstellar",
+    "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand, a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home. The journey takes them to the far reaches of space and tests the limits of their courage, as they fight for the future of the human race.",
+    "imageUrl": "https://www.originalfilmart.com/cdn/shop/products/interstellar_2014_advance_original_film_art_682852f2-23f6-46de-a1db-4029d5b6f0b4_5000x.jpg?v=1574284010"
+  },
+  {
+    "id": 4,
+    "movieName": "The Matrix",
+    "description": "Neo, a computer hacker, learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. As he explores the dark and complex truth of the Matrix, a simulated reality created by sentient machines to pacify and subdue the human population, Neo is forced to confront his own doubts and fears. Alongside Morpheus, the revered leader of the rebel forces, and the fierce warrior Trinity, Neo must come to terms with his identity as 'The One,' destined to liberate humanity from its digital enslavement.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kmns7m80/poster/l/p/f/medium-the-matrix-an-american-maxi-origins-jumbo-medium-size-original-imagfgb6gx9yhwzs.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 5,
+    "movieName": "The Shawshank Redemption",
+    "description": "Andy Dufresne, a successful banker, is sentenced to life imprisonment for the murders of his wife and her lover. Set in the 1940s, the film follows Andy's journey as he forms an unlikely friendship with Red, the prison 'fixer,' and becomes instrumental in a money-laundering operation led by the prison warden. Despite the harsh conditions of prison life, Andy holds on to hope, using his skills and ingenuity to create a sense of dignity and self-worth. His quiet strength and resilience inspire others, leading to a climactic twist of fate that ultimately brings him redemption.",
+    "imageUrl": "https://i.ebayimg.com/00/s/MTYwMFgxMDgw/z/XxMAAOSw~zFg4aCs/$_57.JPG?set_id=8800005007"
+  },
+  {
+    "id": 6,
+    "movieName": "The Godfather",
+    "description": "The aging patriarch of the Corleone crime family, Don Vito Corleone, transfers control of his clandestine empire to his reluctant son, Michael. Initially dismissive of the family business, Michael is gradually drawn into the world of organized crime after a series of tragic events. The film chronicles Michael's transformation from a reluctant outsider to a ruthless mafia boss, exploring themes of power, loyalty, betrayal, and the corrupting influence of unchecked ambition. The Godfather is a tale of family, honor, and the brutal reality of the American Dream.",
+    "imageUrl": "https://m.media-amazon.com/images/I/81C9FT0-8CL.jpg"
+  },
+  {
+    "id": 7,
+    "movieName": "Pulp Fiction",
+    "description": "Pulp Fiction is a sprawling, epic crime film that weaves together multiple interrelated stories of crime, redemption, and the complexities of modern life. From the lives of two mob hitmen to a boxer who refuses to throw a fight, and from the girlfriend of a powerful crime lord to a pair of small-time robbers, the film explores the lives of seemingly disconnected characters whose fates are intertwined in unexpected and often violent ways. Known for its witty dialogue, non-linear storytelling, and eclectic soundtrack, Pulp Fiction has become a cultural touchstone of the 1990s.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkKEUHiXx-oIrvJd5Sxq3ksChSHyDaRw6xw&s"
+  },
+  {
+    "id": 8,
+    "movieName": "Fight Club",
+    "description": "A disillusioned and insomnia-plagued office worker forms an underground fight club with a devil-may-care soapmaker, Tyler Durden. The club, which initially serves as an outlet for primal aggression, soon spirals out of control as Tyler's anarchistic ideas take hold, leading to the creation of an anti-consumerist organization. As the narrator becomes increasingly entangled in Tyler's vision, he begins to question his own identity and reality. Fight Club is a provocative exploration of identity, masculinity, and the alienation of modern life.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kmns7m80/poster/k/r/e/medium-fight-club-is-1999-american-maxi-origins-jumbo-medium-original-imagfgb6cf5ec2zu.jpeg?q=20&crop=false"
+  },
+  {
+    "id": 9,
+    "movieName": "Forrest Gump",
+    "description": "Forrest Gump is a simple man with a low IQ but extraordinary kindness and a heart of gold. Despite his limitations, Forrest experiences a series of remarkable adventures, from becoming a college football star to serving in Vietnam, starting a successful shrimp business, and inadvertently shaping significant events in American history. Along the way, he influences the lives of countless others, including his childhood love, Jenny, whose life takes a far different path. The film is a heartwarming and emotional journey through life, love, and destiny.",
+    "imageUrl": "https://image.tmdb.org/t/p/original/tqfdw48d74spVGmqlZ6rRyOywUM.jpg"
+  },
+  {
+    "id": 10,
+    "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "In the idyllic Shire, young hobbit Frodo Baggins inherits a simple gold ring that holds the secret to the survival of Middle-earth. Now, Frodo must embark on an epic quest to the Cracks of Doom to destroy the ring and prevent the Dark Lord Sauron from using it to enslave all living beings. With the help of a fellowship of heroes, including Aragorn, Legolas, and Gimli, Frodo faces countless perils as he journeys through treacherous lands, encounters ancient evils, and discovers the true meaning of courage and friendship.",
+    "imageUrl": "https://c8.alamy.com/comp/2KG90HJ/the-lord-of-the-rings-the-fellowship-of-the-ring-poster-2KG90HJ.jpg"
+  },
+  {
+    "id": 11,
+    "movieName": "Star Wars: Episode IV - A New Hope",
+    "description": "In a distant galaxy, young farm boy Luke Skywalker embarks on an epic adventure to rescue Princess Leia, leader of the Rebel Alliance, from the clutches of the tyrannical Galactic Empire. Alongside a wise Jedi Knight, a roguish pilot, and a pair of droids, Luke discovers his own connection to the Force and learns the ways of the Jedi. As the Rebel forces prepare to strike against the Empire's ultimate weapon, the Death Star, Luke faces a crucial test of courage and destiny. A New Hope is the beginning of an iconic space saga that continues to captivate audiences.",
+    "imageUrl": "https://images-cdn.ubuy.co.in/637de7b1fc828415473c2953-star-wars-episode-iv-a-new-hope.jpg"
+  },
+  {
+    "id": 12,
+    "movieName": "The Empire Strikes Back",
+    "description": "Following the destruction of the Death Star, the Rebel Alliance faces renewed threats from the Galactic Empire. Luke Skywalker seeks out the wisdom of the ancient Jedi Master Yoda on the remote planet Dagobah, while Han Solo, Princess Leia, and the rest of the Rebel heroes are pursued across the galaxy by Darth Vader. As Luke confronts the dark truth about his heritage and the power of the Force, the Rebels wage a desperate battle for survival. The Empire Strikes Back is a darker, more complex chapter in the Star Wars saga, filled with suspense, revelations, and unforgettable moments.",
+    "imageUrl": "https://i.etsystatic.com/16821137/r/il/48c232/3956514061/il_570xN.3956514061_ffgi.jpg"
+  },
+  {
+    "id": 13,
+    "movieName": "The Silence of the Lambs",
+    "description": "Clarice Starling, a young FBI trainee, is assigned to interview the imprisoned Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, in hopes of gaining insight into the mind of another serial killer on the loose, known as 'Buffalo Bill.' As Clarice delves into Lecter's twisted psyche, she finds herself drawn into a dangerous and manipulative game of cat and mouse. The film is a gripping psychological thriller that explores themes of fear, power, and the dark recesses of the human mind.",
+    "imageUrl": "https://i.etsystatic.com/23402008/r/il/c5a333/3330640499/il_570xN.3330640499_s6dd.jpg"
+  },
+  {
+    "id": 14,
+    "movieName": "Schindler's List",
+    "description": "Based on a true story, Schindler's List chronicles the life of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish Jews during the Holocaust. Initially driven by profit, Schindler's motives evolve as he witnesses the atrocities committed by the Nazis. Through his efforts, he manages to protect his Jewish workers from certain death by employing them in his factories. The film is a powerful and harrowing depiction of one man's transformation from a self-serving opportunist to a humanitarian hero amidst the horrors of World War II.",
+    "imageUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+  },
+  {
+    "id": 15,
+    "movieName": "The Green Mile",
+    "description": "In a Louisiana prison in the 1930s, death row corrections officer Paul Edgecomb meets John Coffey, an enormous black man convicted of brutally murdering two young girls. As Coffey awaits execution, Paul discovers that this seemingly gentle giant possesses a miraculous, supernatural gift that challenges everything Paul believes about justice and redemption. The film explores themes of compassion, humanity, and the mysteries of life, set against the backdrop of the brutal and dehumanizing environment of death row.",
+    "imageUrl": "https://i.pinimg.com/originals/e5/9d/0e/e59d0e67e9da5159780f38aa18d2b59b.png"
+  },
+  {
+    "id": 16,
+    "movieName": "Saving Private Ryan",
+    "description": "Following the harrowing D-Day invasion of Normandy during World War II, Captain John Miller is tasked with a perilous mission to find and bring home Private James Ryan, the last surviving brother of four servicemen. As Miller and his squad trek through war-torn Europe, they confront the brutal realities of war, questioning the value of one man's life against the lives of many. Saving Private Ryan is a visceral and emotionally charged portrayal of the sacrifices made by soldiers and the bonds forged in the crucible of combat.",
+    "imageUrl": "https://i.ebayimg.com/images/g/zMcAAOSw6IVgwxTv/s-l400.jpg"
+  },
+  {
+    "id": 17,
+    "movieName": "Gladiator",
+    "description": "Maximus Decimus Meridius, a respected Roman general, is betrayed by the corrupt Emperor Commodus and sentenced to death. Escaping execution, Maximus becomes a gladiator and rises through the ranks of the arena, seeking revenge against the man who destroyed his family and his life. As he battles for survival and honor, Maximus becomes a symbol of hope and defiance for the people of Rome. Gladiator is an epic tale of vengeance, loyalty, and the struggle for freedom set against the backdrop of the ancient Roman Empire.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kyvvtzk0/poster/d/x/8/medium-gladiator-matte-finish-poster-urbanprint6311-original-imagbygdgnhbdj8z.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 18,
+    "movieName": "The Lion King",
+    "description": "In the Pride Lands of Africa, a young lion prince named Simba is born to King Mufasa and Queen Sarabi. As Simba grows, he is taught the ways of the kingdom by his father. However, his uncle Scar harbors dark ambitions to seize the throne for himself. When tragedy strikes, Simba is led to believe he is responsible and flees the Pride Lands. Years later, he returns to challenge Scar and reclaim his rightful place as king. The Lion King is a timeless story of love, loss, and the journey of self-discovery, set against the majestic backdrop of the African savannah.",
+    "imageUrl": "https://m.media-amazon.com/images/I/61SmZNlmpML._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 19,
+    "movieName": "Jurassic Park",
+    "description": "On a remote island, a wealthy entrepreneur secretly creates a theme park featuring living dinosaurs cloned from prehistoric DNA. When a select group of scientists and experts are invited to preview the park, the tour goes disastrously wrong as the park's security systems fail, allowing the deadly dinosaurs to escape. Jurassic Park is a thrilling adventure that explores the dangers of playing God and the ethical dilemmas of genetic engineering, as well as the primal fear of facing nature's most fearsome predators.",
+    "imageUrl": "https://image.tmdb.org/t/p/original/8nSi7W1pG1KgqHS9kp3EsGoeKtA.jpg"
+  },
+  {
+    "id": 20,
+    "movieName": "Titanic",
+    "description": "A young aristocrat, Rose, falls in love with Jack, a kind but poor artist aboard the luxurious and ill-fated R.M.S. Titanic. As the ship makes its maiden voyage across the Atlantic, the two lovers face the challenges of societal expectations and the looming disaster that will soon claim the lives of many. When the Titanic strikes an iceberg and begins to sink, Rose and Jack must fight for their survival, and their love story becomes a tale of passion, sacrifice, and tragedy. Titanic is an epic romance set against the backdrop of one of history's most infamous maritime disasters.",
+    "imageUrl": "https://m.media-amazon.com/images/I/610CYrdV7AS.jpg"
+  }
+]
