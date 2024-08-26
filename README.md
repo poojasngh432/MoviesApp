@@ -34,10 +34,10 @@ The app follows the principles of Clean Architecture, which promotes separation 
    - MoviesViewModel   
 
 ## Development Workflow
-The development workflow for the Movies App follows the standard MVVM pattern and Clean Architecture principles. 
-	a. UI components are implemented using Jetpack Compose.
-	b. ViewModel is created to hold and manage UI-related data and business logic.
-	c. Data is stored locally in a json file and is fetched using Repository class
+The development workflow for the Movies App follows the standard MVVM pattern and Clean Architecture principles:      
+a. UI components are implemented using Jetpack Compose.   
+b. ViewModel is created to hold and manage UI-related data and business logic.   
+c. Data is stored locally in a json file and is fetched using Repository class   
 
 ## Preview
 #### Recording
