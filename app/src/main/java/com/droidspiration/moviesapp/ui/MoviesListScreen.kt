@@ -4,7 +4,6 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
-import androidx.compose.foundation.lazy.grid.rememberLazyGridState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
@@ -40,7 +39,7 @@ fun MoviesListScreen(navController: NavHostController, viewModel: MoviesViewMode
     var searchQuery by remember { mutableStateOf("") }
     var active by remember { mutableStateOf(false) }
 
-    val movies by viewModel.movies.collectAsState()
+    val moviesState by viewModel.moviesState.collectAsState()
 
     LaunchedEffect(Unit) {
         viewModel.fetchMovies()
@@ -72,18 +71,37 @@ fun MoviesListScreen(navController: NavHostController, viewModel: MoviesViewMode
             }
         ) {
         }
+
         Spacer(modifier = Modifier.width(30.dp))
 
-        val state = rememberLazyGridState()
-        LazyVerticalGrid(
-            modifier = Modifier,
-            columns = GridCells.Fixed(2),
-            state = state,
-            contentPadding = PaddingValues(8.dp)
-        ) {
-            items(movies.size) { index ->
-                val movie: Movie = movies[index]
-                MovieItem(movie, navController, viewModel)
+        when (moviesState) {
+            is UIState.Loading -> {
+                Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                    CircularProgressIndicator()
+                }
+            }
+            is UIState.Success -> {
+                val movies = (moviesState as UIState.Success<List<Movie>>).data
+
+                LazyVerticalGrid(
+                    modifier = Modifier,
+                    columns = GridCells.Fixed(2),
+                    contentPadding = PaddingValues(8.dp)
+                ) {
+                    items(movies.size) { index ->
+                        val movie: Movie = movies[index]
+                        MovieItem(movie, navController, viewModel)
+                    }
+                }
+            }
+            is UIState.Error -> {
+                Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                    Text(
+                        text = (moviesState as UIState.Error).message,
+                        color = Color.Red,
+                        fontSize = 16.sp
+                    )
+                }
             }
         }
     }
